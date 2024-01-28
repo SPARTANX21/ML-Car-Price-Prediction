@@ -1,6 +1,6 @@
-# Advanced Car Price Prediction using Machine Learning
+# Car Price Prediction using Machine Learning
 
-This GitHub repository contains a comprehensive solution for predicting car prices based on various attributes. The code utilizes advanced techniques in data preprocessing, feature engineering, and model evaluation. Below is an in-depth overview of the key components of this project:
+This GitHub repository contains a comprehensive solution for predicting car prices based on various attributes. The code utilizes techniques in data preprocessing, feature engineering, and model evaluation. Below is an in-depth overview of the key components of this project:
 
 #### Project Structure:
 
